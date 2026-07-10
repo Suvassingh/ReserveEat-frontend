@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+
+    <defs>
+        <style>
+            .line{
+                fill:none;
+                stroke:#000;
+                stroke-width:8;
+                stroke-linecap:round;
+                stroke-linejoin:round;
+            }
+
+            .brand{
+                font-family:'Poppins',Arial,sans-serif;
+                font-size:74px;
+                font-weight:700;
+                fill:#000;
+            }
+
+            .tag{
+                font-family:'Poppins',Arial,sans-serif;
+                font-size:22px;
+                fill:#666;
+                letter-spacing:4px;
+            }
+        </style>
+    </defs>
+
+    <!-- LOGO -->
+    <g transform="translate(20,15)">
+
+        <!-- Steam -->
+        <path class="line" d="M95 45 C85 30 88 15 98 2"></path>
+
+        <path class="line" d="M130 38 C120 18 126 2 136 -16"></path>
+
+        <path class="line" d="M165 45 C175 30 172 15 162 2"></path>
+
+        <!-- Food -->
+        <path class="line" d="M70 95
+                 Q130 60 190 95"></path>
+
+        <!-- Plate -->
+        <ellipse class="line" cx="130" cy="125" rx="92" ry="22"></ellipse>
+
+        <ellipse class="line" cx="130" cy="125" rx="56" ry="10"></ellipse>
+
+    </g>
+
+    <!-- TEXT -->
+    <text x="260" y="110" dominant-baseline="middle" class="brand">
+        ReservEat
+    </text>
+
+    <text x="262" y="155" class="tag">
+        RESERVE • EAT • ENJOY
+    </text>
+
+</svg>

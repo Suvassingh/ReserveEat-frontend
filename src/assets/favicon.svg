@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#000"></rect>
+
+  <!-- Centered & Zoomed Group -->
+  <g stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+    <!-- Steam -->
+    <path d="M24 18 C22 15 22 12 24 9"></path>
+    <path d="M32 16 C30 12 30 8 32 5"></path>
+    <path d="M40 18 C42 15 42 12 40 9"></path>
+
+    <!-- Cloche Handle -->
+    <circle cx="32" cy="22" r="1.8" fill="#fff"></circle>
+
+    <!-- Food Cover -->
+    <path d="M20 35
+             A12 12 0 0 1 44 35"></path>
+
+    <!-- Plate -->
+    <ellipse cx="32" cy="39" rx="18" ry="4.5"></ellipse>
+    <ellipse cx="32" cy="39" rx="10" ry="2"></ellipse>
+
+  </g>
+
+</svg>

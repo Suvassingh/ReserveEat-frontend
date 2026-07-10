@@ -1,0 +1,26 @@
+<svg width="280" height="280" viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="280" height="280" rx="72" fill="#000"></rect>
+
+    <!-- Steam -->
+    <path d="M118 72
+             C108 58 111 42 122 30
+             C132 20 132 8 122 0" stroke="#FFF" stroke-width="7" stroke-linecap="round" fill="none"></path>
+
+    <path d="M140 82
+             C131 67 135 52 145 40
+             C156 28 156 13 145 2" stroke="#FFF" stroke-width="7" stroke-linecap="round" fill="none"></path>
+
+    <path d="M162 72
+             C172 58 169 42 158 30
+             C148 20 148 8 158 0" stroke="#FFF" stroke-width="7" stroke-linecap="round" fill="none"></path>
+
+    <!-- Food -->
+    <path d="M96 112
+             Q140 88 184 112" stroke="#FFF" stroke-width="7" stroke-linecap="round" fill="none"></path>
+
+    <!-- Plate -->
+    <ellipse cx="140" cy="145" rx="70" ry="18" stroke="#FFF" stroke-width="8" fill="none"></ellipse>
+
+    <ellipse cx="140" cy="145" rx="42" ry="8" stroke="#FFF" stroke-width="4" fill="none"></ellipse>
+</svg>
